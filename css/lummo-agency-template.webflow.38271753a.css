@@ -2490,7 +2490,7 @@ p {
 
 .hero-radial {
   filter: blur(170px);
-  background-image: linear-gradient(#d2bf18, rgba(255, 255, 255, 0));
+  background-image: linear-gradient(#FFA500, rgba(255, 255, 255, 0));
   border-radius: 100%;
   width: 406px;
   height: 406px;
@@ -2626,7 +2626,7 @@ p {
 .sc-radial {
   z-index: 1;
   filter: blur(170px);
-  background-image: linear-gradient(#d2bf18, rgba(255, 255, 255, 0));
+  background-image: linear-gradient(#FFA500, rgba(255, 255, 255, 0));
   border-radius: 100%;
   width: 406px;
   height: 406px;
@@ -3868,7 +3868,7 @@ p {
 
 .footer-radial {
   filter: blur(160px);
-  background-image: linear-gradient(#d2bf18, rgba(255, 255, 255, 0));
+  background-image: linear-gradient(#FFA500, rgba(255, 255, 255, 0));
   border-radius: 100%;
   width: 406px;
   height: 406px;
@@ -4451,7 +4451,7 @@ p {
 .pc-radial {
   z-index: 1;
   filter: blur(170px);
-  background-image: linear-gradient(#d2bf18, rgba(255, 255, 255, 0));
+  background-image: linear-gradient(#FFA500, rgba(255, 255, 255, 0));
   border-radius: 100%;
   width: 406px;
   height: 406px;
@@ -4595,7 +4595,7 @@ p {
 .radial-ellipse {
   z-index: -1;
   filter: blur(130px);
-  background-color: #d2bf18;
+  background-color: #FFA500;
   border-radius: 100%;
   width: 300px;
   height: 300px;
